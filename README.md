@@ -25,10 +25,3 @@ This project is licensed under the MIT License. See the LICENSE.md file for more
 
 Acknowledgments:
 We would like to thank all contributors and users who have helped make this project possible. Your support and feedback are invaluable in driving continuous improvement and innovation.
-
-FACEBOOK:
-Dennis Bongaitan
-
-INTRAGRAM:
-
-@dbongaitan
